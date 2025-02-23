@@ -25,7 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/biyejidhosen/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="biyejidhosen" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/biyejidhosen/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="biyejidhosen" height="30" width="40" /></a>
 <a href="https://twitter.com/biyejidhosen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="biyejidhosen" height="30" width="40" /></a>
 <a href="https://fb.com/biyejidhosen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="biyejidhosen" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/biyejidxweber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="biyejidxweber" height="30" width="40" /></a>
