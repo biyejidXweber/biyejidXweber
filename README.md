@@ -1,23 +1,21 @@
-<img src="https://media.licdn.com/dms/image/v2/D5616AQEZhXabFFQdmA/profile-displaybackgroundimage-shrink_350_1400/B56ZUypEILHQAY-/0/1740311385046?e=1746057600&v=beta&t=JOzivQr29QRJxqL5egdIGXA5p5pZZOotRSLP6whdAIU">
-
-<h1 align="center">Hey 👋, I'm Md Biyejid Hosen (BK)</h1>
+<h1 align="center">Hi 👋, I'm Md Biyejid Hosen (BK)</h1>
 <h3 align="center">Full-Stack Web Developer|Always Learning, Always Coding</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biyejidxweber&label=Profile%20views&color=0e75b6&style=flat" alt="biyejidxweber" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=biyejidxweber" alt="biyejidxweber" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/biyejidhosen" target="blank"><img src="https://img.shields.io/twitter/follow/biyejidhosen?logo=twitter&style=for-the-badge" alt="biyejidhosen" /></a> </p>
+- 🔭 I’m currently working on [Fiverr](https://www.fiverr.com/s/qD9ekkX)
 
-- 🔭 I’m currently working on [Freelancer](https://www.freelancer.com.bd/u/ashrafulOnWeb)
-
-- 🌱 I’m currently learning **PHP,MySQL**
+- 🌱 I’m currently learning **PHP,MySQL,Webflow**
 
 - 👯 I’m looking to collaborate on [Freedom IT Institutions](https://freedomitinstitutions.com/)
 
-- 👨‍💻 All of my projects are available at [https://www.freelancer.com.bd/u/ashrafulOnWeb](https://www.freelancer.com.bd/u/ashrafulOnWeb)
+- 🤝 I’m looking for help with [Website Solutions](https://dribbble.com/biyejidxweb)
 
-- 💬 Ask me about **HTML,CSS, JavaSript, Bootstrap**
+- 👨‍💻 All of my projects are available at [https://dev-biyejid-hosen.pantheonsite.io/](https://dev-biyejid-hosen.pantheonsite.io/)
+
+- 💬 Ask me about **HTML,CSS, JavaSript, Bootstrap, WordPress**
 
 - 📫 How to reach me **biyejidhosen@gmail.com**
 
@@ -25,9 +23,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/biyejidhosen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="biyejidhosen" height="30" width="40" /></a>
 <a href="https://twitter.com/biyejidhosen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="biyejidhosen" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/biyejidhosen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="biyejidhosen" height="30" width="40" /></a>
 <a href="https://fb.com/biyejidhosen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="biyejidhosen" height="30" width="40" /></a>
+<a href="https://instagram.com/biyejidxweb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="biyejidxweb" height="30" width="40" /></a>
+<a href="https://dribbble.com/biyejidxweb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="biyejidxweb" height="30" width="40" /></a>
+<a href="https://www.behance.net/biyejidxweb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="biyejidxweb" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/biyejidxweber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="biyejidxweber" height="30" width="40" /></a>
 </p>
 
