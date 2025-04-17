@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on [Freedom IT Institutions](https://freedomitinstitutions.com/)
 
-- 🤝 I’m looking for help with [Website Solutions](https://dribbble.com/biyejidxweb)
+- 🤝 I’m looking for help with [Website Solutions](https://www.instagram.com/biyejidxweb/)
 
 - 👨‍💻 All of my projects are available at [https://dev-biyejid-hosen.pantheonsite.io/](https://dev-biyejid-hosen.pantheonsite.io/)
 
